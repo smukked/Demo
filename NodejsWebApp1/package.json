@@ -1,0 +1,13 @@
+{
+  "name": "NodejsWebApp1",
+  "version": "0.0.0",
+  "description": "NodejsWebApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Danny",
+    "email": "des@des-design.com"
+  }
+  "devDependencies": {
+    "gulp": "3.9.0",
+  }
+}
